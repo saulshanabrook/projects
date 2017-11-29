@@ -219,4 +219,4 @@
 	url = https://github.com/umass-cs-326/workshop7.git
 [submodule "interactive-map"]
 	path = interactive-map
-	url = git@github.com:codegophers/interactive-map.git
+	url = git@github.com:saulshanabrook/interactive-map.git
