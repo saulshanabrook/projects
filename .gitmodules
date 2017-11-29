@@ -190,9 +190,6 @@
 [submodule "swap"]
 	path = swap
 	url = git@github.com:saulshanabrook/swap.git
-[submodule "test"]
-	path = test
-	url = git@gitlab.com:saulshanabrook/test.git
 [submodule "test-csp"]
 	path = test-csp
 	url = git@github.com:saulshanabrook/test-csp.git
