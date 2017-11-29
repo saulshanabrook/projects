@@ -1,0 +1,225 @@
+[submodule "altair-examples"]
+	path = altair-examples
+	url = git@github.com:saulshanabrook/altair-examples.git
+[submodule "amherst-community-center"]
+	path = amherst-community-center
+	url = git@github.com:saulshanabrook/amherst-community-center.git
+[submodule "arrow"]
+	path = arrow
+	url = https://github.com/apache/arrow.git
+[submodule "bigtop"]
+	path = bigtop
+	url = https://github.com/apache/bigtop.git
+[submodule "clojupyter"]
+	path = clojupyter
+	url = git@github.com:saulshanabrook/clojupyter.git
+[submodule "clojure-kernel"]
+	path = clojure-kernel
+	url = git@github.com:saulshanabrook/clojure-kernel.git
+[submodule "Clojush"]
+	path = Clojush
+	url = git@github.com:lspector/Clojush.git
+[submodule "clojush_profiling"]
+	path = clojush_profiling
+	url = git@github.com:saulshanabrook/clojush_profiling.git
+[submodule "closure-demo"]
+	path = closure-demo
+	url = git@github.com:angular/closure-demo.git
+[submodule "darkworld"]
+	path = darkworld
+	url = git@github.com:saulshanabrook/darkworld.git
+[submodule "dcos-docker"]
+	path = dcos-docker
+	url = https://github.com/dcos/dcos-docker.git
+[submodule "django-canadanewyork"]
+	path = django-canadanewyork
+	url = git@github.com:saulshanabrook/django-canadanewyork.git
+[submodule "django-simpleimages"]
+	path = django-simpleimages
+	url = git@github.com:saulshanabrook/django-simpleimages.git
+[submodule "docker-selenium"]
+	path = docker-selenium
+	url = git@github.com:saulshanabrook/docker-selenium.git
+[submodule "google-play-music-delete-all"]
+	path = google-play-music-delete-all
+	url = git@github.com:saulshanabrook/google-play-music-delete-all.git
+[submodule "gorilla-repl"]
+	path = gorilla-repl
+	url = git@github.com:saulshanabrook/gorilla-repl.git
+[submodule "graph-computation-play"]
+	path = graph-computation-play
+	url = git@github.com:saulshanabrook/graph-computation-play.git
+[submodule "greenkey"]
+	path = greenkey
+	url = git@gitlab.com:thelabnyc/greenkey.git
+[submodule "greenkey-intranet"]
+	path = greenkey-intranet
+	url = git@gitlab.com:thelabnyc/greenkey-intranet
+[submodule "hack-wifi"]
+	path = hack-wifi
+	url = git@github.com:saulshanabrook/hack-wifi.git
+[submodule "Healthcare-Calculator"]
+	path = Healthcare-Calculator
+	url = git@github.com:uh-actionblitz/Healthcare-Calculator.git
+[submodule "ici-recorder"]
+	path = ici-recorder
+	url = git@github.com:saulshanabrook/ici-recorder.git
+[submodule "interview-prep"]
+	path = interview-prep
+	url = git@github.com:saulshanabrook/interview-prep.git
+[submodule "jupyterlab_voyager"]
+	path = jupyterlab_voyager
+	url = git@github.com:saulshanabrook/jupyterlab_voyager.git
+[submodule "lein-check-stdin"]
+	path = lein-check-stdin
+	url = git@github.com:saulshanabrook/lein-check-stdin.git
+[submodule "life-text"]
+	path = life-text
+	url = git@github.com:saulshanabrook/life-text.git
+[submodule "linter-lein"]
+	path = linter-lein
+	url = git@github.com:saulshanabrook/linter-lein.git
+[submodule "ma-police"]
+	path = ma-police
+	url = git@github.com:saulshanabrook/ma-police.git
+[submodule "magnetico"]
+	path = magnetico
+	url = git@github.com:saulshanabrook/magnetico.git
+[submodule "minhash_tutorial"]
+	path = minhash_tutorial
+	url = git@github.com:AbeHandler/minhash_tutorial.git
+[submodule "monkey-room"]
+	path = monkey-room
+	url = git@github.com:saulshanabrook/monkey-room.git
+[submodule "nativescript-angular-webview-crypto"]
+	path = nativescript-angular-webview-crypto
+	url = git@github.com:saulshanabrook/nativescript-angular-webview-crypto.git
+[submodule "nativescript-angular-webview-crypto-example"]
+	path = nativescript-angular-webview-crypto-example
+	url = git@github.com:saulshanabrook/nativescript-angular-webview-crypto-example.git
+[submodule "nativescript-webview-crypto"]
+	path = nativescript-webview-crypto
+	url = git@github.com:saulshanabrook/nativescript-webview-crypto.git
+[submodule "nativescript-webview-crypto-example"]
+	path = nativescript-webview-crypto-example
+	url = git@github.com:saulshanabrook/nativescript-webview-crypto-example.git
+[submodule "nativescript-webview-interface-demo"]
+	path = nativescript-webview-interface-demo
+	url = git@github.com:saulshanabrook/nativescript-webview-interface-demo.git
+[submodule "newsevents"]
+	path = newsevents
+	url = git@github.com:slanglab/newsevents.git
+[submodule "ngx-clipboard"]
+	path = ngx-clipboard
+	url = git@github.com:saulshanabrook/ngx-clipboard.git
+[submodule "ns-libsodium"]
+	path = ns-libsodium
+	url = git@github.com:saulshanabrook/ns-libsodium.git
+[submodule "ops"]
+	path = ops
+	url = git@gitlab.com:burke-software/passit/ops.git
+[submodule "parquet-cpp"]
+	path = parquet-cpp
+	url = https://github.com/apache/parquet-cpp.git
+[submodule "parquet-mr"]
+	path = parquet-mr
+	url = https://github.com/apache/parquet-mr.git
+[submodule "passit-backend"]
+	path = passit-backend
+	url = git@gitlab.com:passit/passit-backend.git
+[submodule "passit-frontend"]
+	path = passit-frontend
+	url = git@gitlab.com:passit/passit-frontend.git
+[submodule "passit-mobile"]
+	path = passit-mobile
+	url = git@gitlab.com:burke-software/passit-mobile.git
+[submodule "passit-sdk-js"]
+	path = passit-sdk-js
+	url = git@gitlab.com:passit/passit-sdk-js.git
+[submodule "passittest"]
+	path = passittest
+	url = git@github.com:saulshanabrook/passittest.git
+[submodule "plugins"]
+	path = plugins
+	url = https://github.com/meetfranz/plugins
+[submodule "plumbing"]
+	path = plumbing
+	url = git@github.com:saulshanabrook/plumbing.git
+[submodule "police-killings-page"]
+	path = police-killings-page
+	url = git@github.com:saulshanabrook/police-killings-page.git
+[submodule "product"]
+	path = product
+	url = git@github.com:fluxcapacitor/product.git
+[submodule "project-1-fall-2017-distributed-wordcount-saulshanabrook"]
+	path = project-1-fall-2017-distributed-wordcount-saulshanabrook
+	url = git@github.com:plasma-umass/project-1-fall-2017-distributed-wordcount-saulshanabrook.git
+[submodule "project-2-fall-2017-mini-pregel-saulshanabrook"]
+	path = project-2-fall-2017-mini-pregel-saulshanabrook
+	url = git@github.com:plasma-umass/project-2-fall-2017-mini-pregel-saulshanabrook.git
+[submodule "push-tensorflow"]
+	path = push-tensorflow
+	url = git@github.com:saulshanabrook/push-tensorflow.git
+[submodule "redux-example"]
+	path = redux-example
+	url = git@gitlab.com:saulshanabrook/redux-example.git
+[submodule "sabanana"]
+	path = sabanana
+	url = git@github.com:saulshanabrook/sabanana.git
+[submodule "saulshanabrook.github.io"]
+	path = saulshanabrook.github.io
+	url = git@github.com:saulshanabrook/saulshanabrook.github.io.git
+[submodule "congressional-text-reuse"]
+	path = congressional-text-reuse
+	url = git@github.com:saulshanabrook/congressional-text-reuse.git
+[submodule "simple-asymmetric-js"]
+	path = simple-asymmetric-js
+	url = git@gitlab.com:passit/simple-asymmetric-js.git
+[submodule "simple-asymmetric-nativescript"]
+	path = simple-asymmetric-nativescript
+	url = git@gitlab.com:burke-software/passit/simple-asymmetric-nativescript.git
+[submodule "slide"]
+	path = slide
+	url = git@github.com:saulshanabrook/slide.git
+[submodule "spark"]
+	path = spark
+	url = git://github.com/apache/spark.git
+[submodule "splinter"]
+	path = splinter
+	url = git@github.com:saulshanabrook/splinter.git
+[submodule "swap"]
+	path = swap
+	url = git@github.com:saulshanabrook/swap.git
+[submodule "test"]
+	path = test
+	url = git@gitlab.com:saulshanabrook/test.git
+[submodule "test-csp"]
+	path = test-csp
+	url = git@github.com:saulshanabrook/test-csp.git
+[submodule "tufte-example"]
+	path = tufte-example
+	url = git@github.com:saulshanabrook/tufte-example.git
+[submodule "vnc2flv-docker"]
+	path = vnc2flv-docker
+	url = git@github.com:saulshanabrook/vnc2flv-docker.git
+[submodule "voyager"]
+	path = voyager
+	url = git://github.com/vega/voyager.git
+[submodule "webview-crypto"]
+	path = webview-crypto
+	url = git@github.com:saulshanabrook/webview-crypto.git
+[submodule "Workshop3"]
+	path = Workshop3
+	url = git@github.com:saulshanabrook/Workshop3.git
+[submodule "Workshop4and5"]
+	path = Workshop4and5
+	url = git://github.com/umass-cs-326/Workshop4and5.git
+[submodule "Workshop6"]
+	path = Workshop6
+	url = git@github.com:saulshanabrook/Workshop6.git
+[submodule "workshop7"]
+	path = workshop7
+	url = https://github.com/umass-cs-326/workshop7.git
+[submodule "interactive-map"]
+	path = interactive-map
+	url = git@github.com:codegophers/interactive-map.git
